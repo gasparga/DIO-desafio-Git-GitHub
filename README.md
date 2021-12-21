@@ -1,6 +1,7 @@
 #  Desafio Dio Projeto Git/GitHub
 
-Repositório criado para Desafio de Projeto
+Repositório criado para Desafio de Projeto do BootCamp Eduzz
 
-## Links Úteis
-[Basic Syntax MarkDown](https://www.markdownguide.org/basic-syntax/)
+## BootCamp Eduzz Fullstack Developer #2
+
+Bootcamp com oportunidade incrível de conquistar um espaço na Eduzz, capacitação FullStack focada em JavaScript e demais ferramentas essenciais a um Dev.
